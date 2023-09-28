@@ -10,7 +10,7 @@ It can grab the banner from open ports
 
 To import the code in to python script follow the example below 
 
-```python
+```
 import port_scanner
 
 ip = '192.168.1.1'
