@@ -7,3 +7,8 @@ It can scan multiple targets at once
 
 It can grab the banner from open ports
 
+
+To import the code in to python script follow the example below 
+'''
+
+'''
