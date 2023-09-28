@@ -7,6 +7,11 @@ It can scan multiple targets at once
 
 It can grab the banner from open ports
 
+To use the IPy library, install with pip
+```python
+pip3 install IPy 
+```
+
 
 
 To import the code in to python script follow the example below 
