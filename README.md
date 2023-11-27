@@ -1,4 +1,4 @@
-# port_scanner
+# Port_Scanner
 This is a port scanning tool made with Python 
 
 The program can scan for open ports for a given IP address or a domain name.
